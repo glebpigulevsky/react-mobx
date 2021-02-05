@@ -1,0 +1,15 @@
+{
+  "bitcoin_currencie": "Bitcoin Currency",
+  "last_update": "Last update: ",
+  "currency": "Currency",
+  "rate": "Rate",
+  "page_not_loaded": "Something went wrong",
+  "web_analyzer": "Web analyzer",
+  "unique_tags": "Unique tags: ",
+  "most_commonly_used_tag": "Most commonly used tag: ",
+  "used_tags": "Used tags: ",
+  "incorrect_url": "Incorrect url",
+  "enter_url": "Enter the url",
+  "analysis": "analysis",
+  "path_most_commonly_used_tag": "Path of the most commonly used tag: "
+}
